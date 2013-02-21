@@ -1,0 +1,4 @@
+CKEditor
+========
+
+jQuery CKEditor Plugin
