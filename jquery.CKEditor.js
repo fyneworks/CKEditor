@@ -1,10 +1,10 @@
 /*
  ### jQuery CKEditor Plugin v2.0.4 - 2014-05-15 ###
- * http://www.fyneworks.com/ - diego@fyneworks.com
+ * https://www.fyneworks.com/ - diego@fyneworks.com
   * Licensed under http://en.wikipedia.org/wiki/MIT_License
  ###
- Project: http://jquery.com/plugins/project/CKEditor/
- Website: http://www.fyneworks.com/jquery/CKEditor/
+ Project: https://github.com/fyneworks/ckeditor
+ Website: https://ckeditor.fyneworks.com/
 */
 /*
  USAGE: $('textarea').ckeditor({ path:'/path/to/ckeditor/editor/' }); // initialize CKEditor
@@ -116,7 +116,7 @@ if (window.jQuery)(function ($) {
       //----------------------------------------------------------------------------------------------------
 
       // Legacy methods
-      // inspired by Sebastián Barrozo <sbarrozo@b-soft.com.ar>
+      // inspired by Sebastiï¿½n Barrozo <sbarrozo@b-soft.com.ar>
       getHTML: function (i, v) {
         //console.log(['ckeditor.getHTML',arguments]);
         if (typeof i == 'object'){
